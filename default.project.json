@@ -1,0 +1,16 @@
+{
+  "name": "StudioFused",
+  "tree": {
+    "$className": "DataModel",
+    "ServerStorage": {
+      "$className": "ServerStorage",
+      "Packages": {
+        "$className": "Folder",
+        "$path": "Packages",
+        "StudioFused": {
+          "$path": "src"
+        }
+      }
+    }
+  }
+}
